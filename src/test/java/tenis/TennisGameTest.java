@@ -1,6 +1,8 @@
-package tenis.Client;
+package tenis;
 
 import org.junit.jupiter.api.Test;
+
+import tenis.TennisGame;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
